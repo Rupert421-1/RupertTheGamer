@@ -1,5 +1,5 @@
 # RupertTheGamer
-from the course AlphaZero from scratch from freeCodeCamp.
+from the course "AlphaZero from scratch" from freeCodeCamp.
 
 plays ConnectFour and TicTacToe really nicely.
 
